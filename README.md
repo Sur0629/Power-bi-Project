@@ -7,7 +7,7 @@ Key Activities:
 Data Collection and Cleaning:
 
 Collected data on matches, teams, and player performances from reliable sources.
-Cleaned and preprocessed the data in Power BI to ensure accuracy and consistency....
+Cleaned and preprocessed the data in Power BI to ensure accuracy and consistency...
 Exploratory Data Analysis (EDA):
 
 Conducted EDA to understand key trends and patterns in the dataset.
